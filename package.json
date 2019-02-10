@@ -1,0 +1,15 @@
+{
+  "name": "newdir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xcert/cert": "^1.0.0-rc3",
+    "@0xcert/conventions": "^1.0.0-rc3"
+  }
+}
